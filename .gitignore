@@ -11,7 +11,7 @@ Icon
 ._*
 ./my-project/.gitignore
 package-lock.json
-yarn.lock
+
 
 ############################
 # Linux
