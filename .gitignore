@@ -9,7 +9,8 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
-./my-project/.git
+./my-project/.gitignore
+package-lock.json
 yarn.lock
 
 ############################
